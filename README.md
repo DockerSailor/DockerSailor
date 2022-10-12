@@ -8,8 +8,6 @@
 - 🌱 I’m currently learning **how to use docker and kubernetes properly, and learning python deeper**
 
 - 📫 How to reach me **carlosmateo.damasorodri@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
