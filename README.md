@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos</h1>
-<h3 align="center">Im trying to became a profesional sysadmin. I consider myself a very selftaught person. I love learn new stuff even i dont understand how it works on the first attempts</h3>
+<h3 align="center">Im trying to became a profesional sysadmin. I consider myself a very selftaught person. I love to learn new stuff even i dont understand how it works on the first attempts</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dockersailor&label=Profile%20views&color=0e75b6&style=flat" alt="dockersailor" /> </p>
 
